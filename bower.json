@@ -1,0 +1,22 @@
+{
+  "name": "Westley",
+  "homepage": "https://github.com/nss-day-cohort-17/Handlebars-Exercise-C-Sten",
+  "authors": [
+    "Wisbell <westleyisbell@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "handlebars": "^4.0.5"
+  }
+}
